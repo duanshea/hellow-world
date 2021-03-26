@@ -1,2 +1,4 @@
-# hellow-world
-毕设专用
+＃hellow-world
+hello everyone
+this is for my course design
+good luck to me
